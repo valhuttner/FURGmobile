@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FURG mobile</string>
+    <string name="title_activity_map_activity">FURG mobile</string>
+    <string name="central_marker">"Habemus mapa!" :)</string>
+</resources>
